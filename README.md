@@ -1,6 +1,6 @@
 Sistema de Gestión ERP en Consola (C++)
 
-![Vista Previa del Proyecto](vistaprevia.png)
+![Vista Previa del Proyecto](vistaprevia.PNG)
 
 Este proyecto es un sistema integral de **Planificación de Recursos Empresariales (ERP)** que opera completamente en la consola de Windows. Fue diseñado para gestionar el ciclo completo de ventas: desde el control de inventario hasta la facturación y seguimiento de pedidos.
 
@@ -49,3 +49,4 @@ Tecnologías Utilizadas
 -Lenguaje: C++
 -Entorno: Optimizado para Windows (Consola).
 -Librerías: windows.h`, `stdio.h`, `stdlib.h`, `conio.h`.
+
